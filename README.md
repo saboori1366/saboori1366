@@ -1,7 +1,9 @@
 👋 Hi there, I'm Sepideh Saboori
 
 👨‍💻 Data Scientist | AI Integration Specialist | Networking & Technical Support
+
 🌍 Focused on Business Optimization & AI-Driven Solutions
+
 📍 Tehran, Iran
 
 ![Banner](6028123622733891493.jpg)
