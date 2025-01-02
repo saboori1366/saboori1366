@@ -47,7 +47,7 @@ I’m excited to connect with like-minded professionals on:
 
 ## 📫 Contact Me  
 
-- 💼 [LinkedIn: Sepideh Saboori](#)  
+- 💼 [LinkedIn: Sepideh Saboori]((https://www.linkedin.com/in/sepideh-saboori-ba43b789/))  
 
 ---
 
